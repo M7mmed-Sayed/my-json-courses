@@ -123,16 +123,6 @@
                     "item": "Become an experienced Python Programmer"
                 }
             ],
-            "requirements": [
-                {
-                    "id": 1,
-                    "item": "Macintosh (OSX)/  Machine"
-                },
-                {
-                    "id": 2,
-                    "item": "Internet Connection"
-                }
-            ],
             "title": "Learn A-Z everything about Python, from the basics",
             "describe": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI!",
             "Imageurl": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
@@ -248,16 +238,6 @@
                 {
                     "id": 2,
                     "item": "Use the Jupyter Notebook Environment"
-                }
-            ],
-            "requirements": [
-                {
-                    "id": 1,
-                    "item": "Basic math skills"
-                },
-                {
-                    "id": 2,
-                    "item": "Basic to Intermediate Python Skills"
                 }
             ],
             "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
