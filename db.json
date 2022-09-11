@@ -113,6 +113,30 @@
                     "comment": "soo cool"
                 }
             ],
+            "learning": [
+                {
+                    "id": 1,
+                    "item": "Create their own Python Programs"
+                },
+                {
+                    "id": 2,
+                    "item": "Become an experienced Python Programmer"
+                },
+                {
+                    "id": 3,
+                    "item": "Parse the Web and Create their own Games"
+                }
+            ],
+            "requirements": [
+                {
+                    "id": 1,
+                    "item": "Macintosh (OSX)/ Windows(Vista and higher) Machine"
+                },
+                {
+                    "id": 2,
+                    "item": "Internet Connection"
+                }
+            ],
             "title": "Learn A-Z everything about Python, from the basics",
             "describe": "Learn A-Z everything about Python, from the basics, to advanced topics like Python GUI, Python Data Analysis, and more!",
             "Imageurl": "https://img-c.udemycdn.com/course/240x135/394676_ce3d_5.jpg"
@@ -218,6 +242,43 @@
                     "id": "2",
                     "name": "CAskli",
                     "comment": "soo cool keep up"
+                }
+            ],
+            "learning": [
+                {
+                    "id": 1,
+                    "item": "Have an intermediate skill level of Python programming"
+                },
+                {
+                    "id": 2,
+                    "item": "Use the Jupyter Notebook Environment"
+                },
+                {
+                    "id": 3,
+                    "item": "Use the numpy library to create and manipulate arrays."
+                }
+                ,
+                {
+                    "id": 4,
+                    "item": "Use the pandas module with Python to create and structure data"
+                }
+            ],
+            "requirements": [
+                {
+                    "id": 1,
+                    "item": "Basic math skills"
+                },
+                {
+                    "id": 2,
+                    "item": "Basic to Intermediate Python Skills"
+                },
+                {
+                    "id": 3,
+                    "item": "Have a computer (either Mac, Windows, or Linux)"
+                },
+                {
+                    "id": 4,
+                    "item": "Desire to learn!"
                 }
             ],
             "title": "Python From Scratch & Selenium WebDriver QA Automation 2022",
